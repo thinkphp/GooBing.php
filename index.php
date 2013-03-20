@@ -69,7 +69,7 @@ $google = $obj2->getHTML();
         <div class="yui-u" id="yahoo"></div>
     </div>
     </div>
-   <div id="ft" role="contentinfo"><p>follow me @<a href="http://twitter.com/thinkphp">thinkphp</a> and YUI</p></div>
+   <div id="ft" role="contentinfo"><p>Created by @<a href="http://twitter.com/thinkphp">thinkphp</a> using PHP</p></div>
 </div>
 </body>
 </html>
